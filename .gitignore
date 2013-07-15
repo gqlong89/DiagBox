@@ -213,3 +213,9 @@ Project.htm
 *.map
 *.plg
 *.sct
+Examples
+Documentation
+index.htm
+*.bin
+DiagBox.htm
+DSP_Lib

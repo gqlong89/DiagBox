@@ -22,7 +22,7 @@
 */
 
 #ifndef  OS_MASTER_FILE
-#include <uCOS-II\Source\ucos_ii.h>
+#include "ucos_ii.h"
 #endif
 
 #if (OS_Q_EN > 0u) && (OS_MAX_QS > 0u)

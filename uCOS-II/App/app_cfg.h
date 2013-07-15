@@ -68,7 +68,7 @@
 *********************************************************************************************************
 */
 
-#define  APP_TASK_START_STK_SIZE                          64u
+#define  APP_TASK_START_STK_SIZE                          16u
 #define  APP_TASK_CLIENT_PARSER_STK_SIZE                 256u
 #define  APP_TASK_CLIENT_RESPONSE_STK_SIZE               256u
 

@@ -15,7 +15,7 @@
 /* Includes ------------------------------------------------------------------- */
 #include "includes.h"
 
-#define RingBufferIncr(idx) (idx = (idx + 1) & RING_BUFFER_MASK)
+#define RingBufferIncr(idx) ((idx) = ((idx) + 1) & RING_BUFFER_MASK)
 
 void RingBufferReset(RingBuffer *p)
 {

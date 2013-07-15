@@ -7,13 +7,17 @@
 * @date		28. July. 2012
 * @author	Rocky Weshare Xu
 *
-* Copyright(C) 2012, NCS
+* Copyright(C) 2012, DNT Diagnostic And Tools
 * All rights reserved.
 *
 **********************************************************************/
 
 #ifndef __RING_BUFFER_H__
 #define __RING_BUFFER_H__
+
+#include <stdlib.h>
+#include <stdint.h>
+#include <core_cm3.h>
 
 /* Buffer size definition */
 #define RING_BUFSIZE 256

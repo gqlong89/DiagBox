@@ -64,8 +64,8 @@
 #define _UART
 #define _UART0
 #define _UART1
-#define _UART2
-#define _UART3
+//#define _UART2
+//#define _UART3
 
 /* SPI ------------------------------- */
 #define _SPI
@@ -74,33 +74,33 @@
 #define _SYSTICK
 
 /* SSP ------------------------------- */
-#define _SSP
-#define _SSP0
-#define _SSP1
+//#define _SSP
+//#define _SSP0
+//#define _SSP1
 
 
 /* I2C ------------------------------- */
-#define _I2C
-#define _I2C0
-#define _I2C1
-#define _I2C2
+//#define _I2C
+//#define _I2C0
+//#define _I2C1
+//#define _I2C2
 
 /* TIMER ------------------------------- */
 #define _TIM
 
 /* WDT ------------------------------- */
-#define _WDT
+//#define _WDT
 
 
 /* GPDMA ------------------------------- */
-#define _GPDMA
+//#define _GPDMA
 
 
 /* DAC ------------------------------- */
-#define _DAC
+//#define _DAC
 
 /* DAC ------------------------------- */
-#define _ADC
+//#define _ADC
 
 
 /* PWM ------------------------------- */
@@ -108,29 +108,29 @@
 #define _PWM1
 
 /* RTC ------------------------------- */
-#define _RTC
+//#define _RTC
 
 /* I2S ------------------------------- */
-#define _I2S
+//#define _I2S
 
 /* USB device ------------------------------- */
-#define _USBDEV
-#define _USB_DMA
+//#define _USBDEV
+//#define _USB_DMA
 
 /* QEI ------------------------------- */
-#define _QEI
+//#define _QEI
 
 /* MCPWM ------------------------------- */
-#define _MCPWM
+//#define _MCPWM
 
 /* CAN--------------------------------*/
 #define _CAN
 
 /* RIT ------------------------------- */
-#define _RIT
+//#define _RIT
 
 /* EMAC ------------------------------ */
-#define _EMAC
+//#define _EMAC
 
 /************************** GLOBAL/PUBLIC MACRO DEFINITIONS *********************************/
 

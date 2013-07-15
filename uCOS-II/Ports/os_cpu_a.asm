@@ -27,7 +27,7 @@
     EXTERN  OSTCBCur
     EXTERN  OSTCBHighRdy
     EXTERN  OSIntExit
-     EXTERN  OSTaskSwHook
+    EXTERN  OSTaskSwHook
 
 
     EXPORT  OS_CPU_SR_Save                                      ; Functions declared in this file
@@ -35,8 +35,8 @@
     EXPORT  OSStartHighRdy
     EXPORT  OSCtxSw
     EXPORT  OSIntCtxSw
-	EXPORT   PendSV_Handler
-	EXPORT   IntDisAll
+	EXPORT  PendSV_Handler
+	EXPORT  IntDisAll
    ; EXPORT  OS_CPU_PendSVHandler
 
 

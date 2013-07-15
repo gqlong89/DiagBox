@@ -23,7 +23,7 @@
 
 #ifndef  OS_MASTER_FILE
 #define  OS_GLOBALS
-#include <uCOS-II\Source\ucos_ii.h>
+#include "ucos_ii.h"
 #endif
 
 /*
